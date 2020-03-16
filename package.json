@@ -1,0 +1,14 @@
+{
+  "name": "com.worldreaver.security",
+  "displayName": "Security",
+  "description": "",
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldreaver/Security"
+  }
+}
